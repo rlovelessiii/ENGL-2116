@@ -1,0 +1,62 @@
+{
+  "authors": [
+    "Richard Loveless",
+    "Enter Author #2 Here",
+    "Enter Author #3 Here",
+    "Enter Author #4 Here",
+    "Enter Author #5 Here"
+  ],
+  "info": {
+    "title": "Enter Title Here"
+  },
+  "steps": {
+    "1": {
+      "title": "Enter Step 1 Title Here",
+      "details": "Enter Step 1 Instructions Go Here"
+    },
+    "2": {
+      "title": "Enter Step 2 Title Here",
+      "details": "Enter Step 2 Instructions Go Here"
+    },
+    "3": {
+      "title": "Enter Step 3 Title Here",
+      "details": "Enter Step 3 Instructions Go Here"
+    },
+    "4": {
+      "title": "Enter Step 4 Title Here",
+      "details": "Enter Step 4 Instructions Go Here"
+    },
+    "5": {
+      "title": "Enter Step 5 Title Here",
+      "details": "Enter Step 5 Instructions Go Here"
+    },
+    "6": {
+      "title": "Enter Step 6 Title Here",
+      "details": "Enter Step 6 Instructions Go Here"
+    },
+    "7": {
+      "title": "Enter Step 7 Title Here",
+      "details": "Enter Step 7 Instructions Go Here"
+    },
+    "8": {
+      "title": "Enter Step 8 Title Here",
+      "details": "Enter Step 8 Instructions Go Here"
+    },
+    "9": {
+      "title": "Enter Step 9 Title Here",
+      "details": "Enter Step 9 Instructions Go Here"
+    },
+    "10": {
+      "title": "Enter Step 10 Title Here",
+      "details": "Enter Step 10 Instructions Go Here"
+    },
+    "11": {
+      "title": "Enter Step 11 Title Here",
+      "details": "Enter Step 11 Instructions Go Here"
+    },
+    "12": {
+      "title": "Enter Step 12 Title Here",
+      "details": "Enter Step 12 Instructions Go Here"
+    }
+  }
+}
