@@ -1,11 +1,64 @@
 body {
-    background-color: lightgrey;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
 }
 
 .container {
     max-width: 1000px;
 }
 
-#title {
+.custom-container {
+    padding: 20px;
+    border: 2px transparent;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.header {
+    background-color: #C5C4BA;
+}
+
+.details {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.materials {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.warning {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.center {
     text-align: center;
+}
+
+.details, .materials, .warning, .steps, .instructions, .slides {
+    border: 2px transparent;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.materials {
+    margin-top: 6%;
+    padding-bottom: 10%;
+}
+
+.warning {
+    margin-top: 27%;
+    padding-bottom: 12%;
+}
+
+.btn-link {
+    background-color: #716F56;
+    color: #fff;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.slides {
+    background-color: #C5C4BA;
 }

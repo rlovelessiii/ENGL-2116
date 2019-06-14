@@ -1,62 +1,106 @@
 {
-  "authors": [
-    "Richard Loveless",
-    "Enter Author #2 Here",
-    "Enter Author #3 Here",
-    "Enter Author #4 Here",
-    "Enter Author #5 Here"
-  ],
   "info": {
-    "title": "Enter Title Here"
+    "authors": [
+      "Richard Loveless",
+      "Author #2",
+      "Author #3",
+      "Author #4",
+      "Author #5"
+    ],
+    "title": "Enter Title Here",
+    "description": "Enter Description Here",
+    "materials": [
+      "Material #1",
+      "Material #2",
+      "Material #3",
+      "Material #4",
+      "Material #5"
+    ],
+    "warnings": [
+      "Warning #1",
+      "Warning #2",
+      "Warning #3",
+      "Warning #4",
+      "Warning #5"
+    ]
   },
   "steps": {
     "1": {
-      "title": "Enter Step 1 Title Here",
-      "details": "Enter Step 1 Instructions Go Here"
+     "title": "1. Enter Step 1 Title Here",
+      "details": "Enter Step 1 Instructions Here"
     },
     "2": {
-      "title": "Enter Step 2 Title Here",
-      "details": "Enter Step 2 Instructions Go Here"
+      "title": "2. Enter Step 2 Title Here",
+      "details": "Enter Step 2 Instructions Here"
     },
     "3": {
-      "title": "Enter Step 3 Title Here",
-      "details": "Enter Step 3 Instructions Go Here"
+      "title": "3. Enter Step 3 Title Here",
+      "details": "Enter Step 3 Instructions Here"
     },
     "4": {
-      "title": "Enter Step 4 Title Here",
-      "details": "Enter Step 4 Instructions Go Here"
+      "title": "4. Enter Step 4 Title Here",
+      "details": "Enter Step 4 Instructions Here"
     },
     "5": {
-      "title": "Enter Step 5 Title Here",
-      "details": "Enter Step 5 Instructions Go Here"
+      "title": "5. Enter Step 5 Title Here",
+      "details": "Enter Step 5 Instructions Here"
     },
     "6": {
-      "title": "Enter Step 6 Title Here",
-      "details": "Enter Step 6 Instructions Go Here"
+      "title": "6. Enter Step 6 Title Here",
+      "details": "Enter Step 6 Instructions Here"
     },
     "7": {
-      "title": "Enter Step 7 Title Here",
-      "details": "Enter Step 7 Instructions Go Here"
+      "title": "7. Enter Step 7 Title Here",
+      "details": "Enter Step 7 Instructions Here"
     },
     "8": {
-      "title": "Enter Step 8 Title Here",
-      "details": "Enter Step 8 Instructions Go Here"
+      "title": "8. Enter Step 8 Title Here",
+      "details": "Enter Step 8 Instructions Here"
     },
     "9": {
-      "title": "Enter Step 9 Title Here",
-      "details": "Enter Step 9 Instructions Go Here"
+      "title": "9. Enter Step 9 Title Here",
+      "details": "Enter Step 9 Instructions Here"
     },
     "10": {
-      "title": "Enter Step 10 Title Here",
-      "details": "Enter Step 10 Instructions Go Here"
+      "title": "10. Enter Step 10 Title Here",
+      "details": "Enter Step 10 Instructions Here"
     },
     "11": {
-      "title": "Enter Step 11 Title Here",
-      "details": "Enter Step 11 Instructions Go Here"
+      "title": "11. Enter Step 11 Title Here",
+      "details": "Enter Step 11 Instructions Here"
     },
     "12": {
-      "title": "Enter Step 12 Title Here",
-      "details": "Enter Step 12 Instructions Go Here"
+      "title": "12. Enter Step 12 Title Here",
+      "details": "Enter Step 12 Instructions Here"
+    },
+    "13": {
+      "title": "13. Enter Step 13 Title Here",
+      "details": "Enter Step 13 Instructions Here"
+    },
+    "14": {
+      "title": "14. Enter Step 14 Title Here",
+      "details": "Enter Step 14 Instructions Here"
+    },
+    "15": {
+      "title": "15. Enter Step 15 Title Here",
+      "details": "Enter Step 15 Instructions Here"
     }
-  }
+  },
+  "images": [
+    "1.svg",
+    "2.svg",
+    "3.svg",
+    "4.svg",
+    "5.svg",
+    "6.svg",
+    "7.svg",
+    "8.svg",
+    "9.svg",
+    "10.svg",
+    "11.svg",
+    "12.svg",
+    "13.svg",
+    "14.svg",
+    "15.svg"
+  ]
 }
